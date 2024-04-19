@@ -75,5 +75,5 @@ python app.py
 The Flask server is set to listen on port 4000 and only accept POST requests at the endpoint:
 
 ```
-http://<your-IP-address-or-domain>:4000/webhook
+http://<your-IP-address-or-domain>:4000/webhooks/pull-requests/create
 ```
