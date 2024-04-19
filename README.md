@@ -3,6 +3,8 @@
 This project is a Flask server that listens for webhooks from Bitbucket Cloud and sends notifications to Microsoft Teams
 when a new pull request is created.
 
+![prs2teams-image](./prs2teams.png)
+
 ## Requirements
 
 - Python 3.6 or higher
