@@ -5,13 +5,10 @@ when a new pull request is created.
 
 ## Requirements
 
-Python 3.6 or higher
-
-Flask
-
-Requests
-
-Environment Setup
+- Python 3.6 or higher
+- Flask
+- Requests
+- Environment Setup
 
 ## Clone the repository
 
